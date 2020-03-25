@@ -1,4 +1,10 @@
 {
   "name": "www",
-  "scope": "brutalcomputer"
+  "scope": "brutalcomputer",
+  "redirects": [
+    {
+      "source": "/meet",
+      "destination": "https://meet.google.com/jwu-qmus-yos"
+    }
+  ]
 }
