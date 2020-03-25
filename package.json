@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "scripts": {
     "development": "parcel index.html",
-    "build": "parcel build index.html"
+    "build": "parcel build index.html --public-url=https://brutal.computer"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.4",
