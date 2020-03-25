@@ -2,8 +2,9 @@ module.exports = {
   plugins: {
     "posthtml-expressions": {
       locals: {
-        title: "BRUTAL",
-        description: "BRUTAL is a technology studio based in Paris, France.",
+        title: "BRUTAL COMPUTER",
+        description:
+          "One-person technology studio helping brands companies to build high-quality digital products.",
         twitter: "@brutalcomputer",
         url: "https://brutal.computer"
       }
