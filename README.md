@@ -1,18 +1,18 @@
-# BRUTAL website
+# `brutal-www`
 
 ## Development
 
 ```
-yarn
-yarn development
+npm i
+npm run development
 ```
 
 ## Build
 
 ```
-yarn build
+npm run build
 ```
 
 ## Deployment
 
-Deployed with [Zeit Now](https://zeit.co/).
+Deployed with [Vercel](https://vercel.com/).
