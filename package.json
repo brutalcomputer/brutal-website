@@ -1,14 +1,14 @@
 {
   "private": true,
-  "name": "brutal-website",
+  "name": "brutal-www",
   "version": "1.0.0",
   "scripts": {
     "development": "parcel index.html",
     "build": "parcel build index.html --public-url=https://brutal.computer"
   },
   "devDependencies": {
-    "parcel-bundler": "^1.12.4",
-    "posthtml-expressions": "^1.1.1",
-    "sass": "^1.25.0"
+    "parcel": "latest",
+    "posthtml-expressions": "^1.5.0",
+    "sass": "^1.26.11"
   }
 }
